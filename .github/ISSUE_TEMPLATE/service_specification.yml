@@ -6,7 +6,6 @@ body:
     attributes:
       value: |
         Please provide the following information we would need to consider this service.
-      placeholder: ex. Photoview
 
   - type: dropdown
     id: Type
