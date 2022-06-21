@@ -6,15 +6,7 @@ body:
     attributes:
       value: |
         Please provide the following information we would need to consider this service.
-        
-  - type: input
-    id: Name
-    attributes:
-      label: Name of Proposed Service
-      description: What is the name of this service?
       placeholder: ex. Photoview
-    validations:
-      required: true
 
   - type: dropdown
     id: Type
@@ -104,7 +96,7 @@ body:
   - type: input
     id: Repo
     attributes:
-      label: Repo of Proposed Service
+      label: Upstream Repo of Proposed Service
       description: Where is the code repository for this project?
       placeholder: ex. https://github.com/Start9Labs/embassy-os.git
     validations:
