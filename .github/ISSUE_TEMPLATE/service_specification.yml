@@ -1,1 +1,102 @@
+name: Start9 Service Package Specification Form
+description: Proposal for a new Service to be Packaged and Maintained by Start9
+title: "[Service]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide the following information we would need to consider this service.
+        
+  - type: input
+    id: Name
+    attributes:
+      label: Name of Proposed Service
+      description: What is the name of this service?
+      placeholder: ex. Photoview
+    validations:
+      required: true
 
+  - type: dropdown
+    id: Type
+    attributes:
+      label: What kind of service is this?
+      description: What kind of service category do you think this sercive fits in?
+      options:
+        - Bitcoin
+        - Lightning
+        - Data
+        - Messaging
+        - Social
+        - Productivity
+        - Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: FuncInfo
+    attributes:
+      label: What does this service do?
+      description: Add more information on what the service does, how would an Embassy user utlitize the service.
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: TechInfo
+    attributes:
+      label: How does this service work?
+      description: Add more information on how this service works, code and libraries used, enviornment requirements, etc.
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: Alts
+    attributes:
+      label: What alternative services exist?
+      description: List all known alternative services that exist on the Start9 Embassy, or any other personal server project, or are available to be packaged.
+      render: shell
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: Alignment
+    attributes:
+      label: How does this align with our Mission?
+      description: Where would you like to see this GitHub Tip? You can select more than one.
+      options:
+        - label: Freedom Tech
+          required: false
+        - label: Data Privacy
+          required: false
+        - label: Bitcoin/Lightning
+          required: false
+        - label: Open Source Dev
+          required: false
+          
+  - type: dropdown
+      id: Size
+      attributes:
+        label: How complex is this service?
+        description: At a high level, how difficult this might be to package?
+        options:
+          - Very Easy (~1 day)
+          - Easy 
+          - Medium
+          - Hard
+          - Very Hard (>1 month)
+          - Legendary (crowdfund worthy)
+      validations:
+        required: true
+        
+  - type: dropdown
+      id: Demand
+      attributes:
+        label: How popular is this service?
+        description: At a high level, how many people seem to want this service?
+        options:
+          - Just me!
+          - Low Demand
+          - High Demand
+      validations:
+        required: true
