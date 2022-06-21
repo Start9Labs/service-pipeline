@@ -100,3 +100,12 @@ body:
         - High Demand
     validations:
       required: true
+
+  - type: input
+    id: Repo
+    attributes:
+      label: Repo of Proposed Service
+      description: Where is the code repository for this project?
+      placeholder: ex. https://github.com/Start9Labs/embassy-os.git
+    validations:
+      required: true
