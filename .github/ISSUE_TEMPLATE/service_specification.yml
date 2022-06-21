@@ -75,28 +75,28 @@ body:
           required: false
           
   - type: dropdown
-      id: Size
-      attributes:
-        label: How complex is this service?
-        description: At a high level, how difficult this might be to package?
-        options:
-          - Very Easy (~1 day)
-          - Easy 
-          - Medium
-          - Hard
-          - Very Hard (>1 month)
-          - Legendary (crowdfund worthy)
-      validations:
-        required: true
+    id: Size
+    attributes:
+      label: How complex is this service?
+      description: At a high level, how difficult this might be to package?
+      options:
+        - Very Easy (~1 day)
+        - Easy 
+        - Medium
+        - Hard
+        - Very Hard (>1 month)
+        - Legendary (crowdfund worthy)
+    validations:
+      required: true
         
   - type: dropdown
-      id: Demand
-      attributes:
-        label: How popular is this service?
-        description: At a high level, how many people seem to want this service?
-        options:
-          - Just me!
-          - Low Demand
-          - High Demand
-      validations:
-        required: true
+    id: Demand
+    attributes:
+      label: How popular is this service?
+      description: At a high level, how many people seem to want this service?
+      options:
+        - Just me!
+        - Low Demand
+        - High Demand
+    validations:
+      required: true
