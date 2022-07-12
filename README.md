@@ -1,8 +1,8 @@
-# Start9 Services 
+# Start9 Maintained Services 
 
 </details><details> <summary>Bitcoin Core</summary>
 
-### [bitcoind-wrapper](bitcoind-wrapper/README.md)
+### [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)
 ---
 
 <sup>[service owner]: Aiden McClelland</sup>  
