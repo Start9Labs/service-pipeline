@@ -1,5 +1,8 @@
 # Start9 Maintained Services 
 
+## Category: Bitcoin
+---
+
 </details><details> <summary>Bitcoin Core</summary>
 
 <sup>[repo]: [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)</sup>  
@@ -41,7 +44,9 @@
 <sup>[service owner]: Aiden McClelland</sup>  
 <sup>[category]: Bitcoin</sup>
 
-  
+
+## Category: Lightning
+---
 </details><details> <summary>Lightning Network Daemon</summary>
 
 <sup>[repo]: [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)</sup>  
@@ -84,11 +89,13 @@
 <sup>[category]: Lightning</sup>
 
 
+## Category: Data
+---
 </details><details> <summary>NextCloud</summary>
 
 <sup>[repo]: [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)</sup>  
 <sup>[service owner]: Aiden McClelland</sup>  
-<sup>[category]: Bitcoin</sup>
+<sup>[category]: Data</sup>
 
  
 </details><details> <summary>File Browser</summary>
