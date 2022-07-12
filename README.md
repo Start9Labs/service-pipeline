@@ -1,7 +1,7 @@
 # Start9 Maintained Services 
 
 ### Category: Bitcoin
-
+<p align="center">
 </details><details> <summary>Bitcoin Core</summary>
 
 <sup>[repo]: [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)</sup>  
@@ -42,7 +42,7 @@
 <sup>[repo]: [bitcoind-wrapper](https://github.com/Start9Labs/bitcoind-wrapper)</sup>  
 <sup>[service owner]: Aiden McClelland</sup>  
 <sup>[category]: Bitcoin</sup>
-
+</p>
 ----
 
 
