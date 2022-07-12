@@ -1,6 +1,6 @@
 # Start9 Services 
 
-</details><details> <summary>Bitcoin Core/</summary>
+</details><details> <summary>Bitcoin Core</summary>
 
 ### [bitcoind-wrapper](bitcoind-wrapper/README.md)
 ---
@@ -8,13 +8,4 @@
 <sup>[service owner]: Aiden McClelland</sup>  
 <sup>[category]: Bitcoin</sup>
 
-
-
-
-
-
-
-
-
-
-![Service Packaging Protocol](service-packaging-protocol.drawio.png)
+ 
