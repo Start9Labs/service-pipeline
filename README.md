@@ -1,7 +1,6 @@
 # Start9 Maintained Services 
 
-## Category: Bitcoin
----
+### Category: Bitcoin
 
 </details><details> <summary>Bitcoin Core</summary>
 
@@ -47,11 +46,7 @@
 ----
 
 
-
-
-
-### [01.00-header/table-of-content.md](01.00-header/table-of-content.md)
-## Category: Lightning
+### Category: Lightning
 ---
 </details><details> <summary>Lightning Network Daemon</summary>
 
