@@ -18,7 +18,7 @@
 </details><details> <summary>Electrs</summary>
 
 <sup>[repo]: [electrs-wrapper](https://github.com/Start9Labs/electrs-wrapper)</sup>  
-<sup>[service owner]: Chris Guida</sup>  
+<sup>[service owner]: @chrisguida </sup>  
 <sup>[category]: Bitcoin</sup>
 
   
