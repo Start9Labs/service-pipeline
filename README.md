@@ -1,3 +1,20 @@
-# Start9 Service Packaging Protocols
-This Repo is for the coordination and improvement of service packaging on Embassy.
+# Start9 Services 
+
+</details><details> <summary>Bitcoin Core/</summary>
+
+### [bitcoind-wrapper](bitcoind-wrapper/README.md)
+---
+
+<sup>[service owner]: Aiden McClelland</sup>  
+<sup>[category]: Bitcoin</sup>
+
+
+
+
+
+
+
+
+
+
 ![Service Packaging Protocol](service-packaging-protocol.drawio.png)
