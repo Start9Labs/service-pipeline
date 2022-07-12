@@ -45,6 +45,7 @@
 <sup>[category]: Bitcoin</sup>
 
 
+---
 ## Category: Lightning
 ---
 </details><details> <summary>Lightning Network Daemon</summary>
