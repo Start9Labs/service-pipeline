@@ -18,7 +18,7 @@
 </details><details> <summary>Electrs</summary>
 
 <sup>[repo]: [electrs-wrapper](https://github.com/Start9Labs/electrs-wrapper)</sup>  
-<sup>[service owner]: Aiden McClelland</sup>  
+<sup>[service owner]: Chris Guida</sup>  
 <sup>[category]: Bitcoin</sup>
 
   
@@ -53,14 +53,14 @@
 </details><details> <summary>Core Lightning</summary>
 
 <sup>[repo]: [c-lightning-wrapper](https://github.com/Start9Labs/c-lightning-wrapper)</sup>  
-<sup>[service owner]: Aiden McClelland</sup>  
+<sup>[service owner]: Chris Guida</sup>  
 <sup>[category]: Lightning</sup>
 
   
 </details><details> <summary>Ride The Lightning</summary>
 
 <sup>[repo]: [ride-the-lightning-wrapper](https://github.com/Start9Labs/ride-the-lightning-wrapper)</sup>  
-<sup>[service owner]: Aiden McClelland</sup>  
+<sup>[service owner]: Chris Guida</sup>  
 <sup>[category]: Lightning</sup>
 
   
