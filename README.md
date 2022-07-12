@@ -44,6 +44,11 @@
 <sup>[service owner]: Aiden McClelland</sup>  
 <sup>[category]: Bitcoin</sup>
 
+----
+
+
+
+
 
 ### [01.00-header/table-of-content.md](01.00-header/table-of-content.md)
 ## Category: Lightning
