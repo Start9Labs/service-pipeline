@@ -67,7 +67,7 @@
 </details><details> <summary>Thunderhub</summary>
 
 <sup>[repo]: [thunderhub-wrapper](https://github.com/Start9Labs/thunderhub-wrapper)</sup>  
-<sup>[service owner]: [BitcoinMechanic](https://github.com/BitcoinMechanic)</sup>  
+<sup>[service owner]: [Dread](https://github.com/cryptodread)</sup>  
 <sup>[category]: Lightning</sup>
   
   
