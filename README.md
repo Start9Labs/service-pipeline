@@ -116,7 +116,7 @@
 </details><details> <summary>Synapse</summary>
 
 <sup>[repo]: [synapse-wrapper](https://github.com/Start9Labs/synapse-wrapper)</sup>  
-<sup>[service owner]: [Aiden McClelland](https://github.com/dr-bonez)</sup>  
+<sup>[service owner]: [Mariusz Kogen](https://github.com/k0gen)</sup>  
 <sup>[category]: Data</sup>
 
   
