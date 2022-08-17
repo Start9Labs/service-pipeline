@@ -132,3 +132,9 @@
 <sup>[repo]: [vaultwarden-wrapper](https://github.com/Start9Labs/vaultwarden-wrapper)</sup>  
 <sup>[service owner]: [Blu-J](https://github.com/Blu-J)</sup>  
 <sup>[category]: Data</sup>
+
+</details><details> <summary>Mastadon</summary>
+
+<sup>[repo]: [mastadon-wrapper](https://github.com/Start9Labs/mastodon-wrapper)</sup>  
+<sup>[service owner]: [Mariusz Kogen](https://github.com/k0gen)</sup>  
+<sup>[category]: Data</sup>
