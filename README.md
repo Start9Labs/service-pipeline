@@ -57,6 +57,13 @@
 <sup>[category]: Data</sup>
 
 
+</details><details> <summary>Gitea</summary>
+
+<sup>[repo]: [gitea-wrapper](https://github.com/Start9Labs/gitea-wrapper)</sup>  
+<sup>[service owner]: [chrisguida](https://github.com/chrisguida)</sup>  
+<sup>[category]: Data</sup>
+
+
 </details><details> <summary>Lightning Network Daemon (LND)</summary>
 
 <sup>[repo]: [lnd-wrapper](https://github.com/Start9Labs/lnd-wrapper)</sup>  
@@ -70,6 +77,11 @@
 <sup>[service owner]: [Dread](https://github.com/cryptodread)</sup>  
 <sup>[category]: Lightning</sup>
 
+</details><details> <summary>Mastodon</summary>
+
+<sup>[repo]: [mastadon-wrapper](https://github.com/Start9Labs/mastodon-wrapper)</sup>  
+<sup>[service owner]: [Mariusz Kogen](https://github.com/k0gen)</sup>  
+<sup>[category]: Communications</sup>
   
 </details><details> <summary>Mempool</summary>
 
@@ -131,10 +143,4 @@
 
 <sup>[repo]: [vaultwarden-wrapper](https://github.com/Start9Labs/vaultwarden-wrapper)</sup>  
 <sup>[service owner]: [Blu-J](https://github.com/Blu-J)</sup>  
-<sup>[category]: Data</sup>
-
-</details><details> <summary>Mastadon</summary>
-
-<sup>[repo]: [mastadon-wrapper](https://github.com/Start9Labs/mastodon-wrapper)</sup>  
-<sup>[service owner]: [Mariusz Kogen](https://github.com/k0gen)</sup>  
 <sup>[category]: Data</sup>
