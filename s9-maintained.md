@@ -93,14 +93,14 @@
 </details><details> <summary>NextCloud</summary>
 
 <sup>[repo]: [nextcloud-wrapper](https://github.com/Start9Labs/nextcloud-wrapper)</sup>  
-<sup>[service owner]: [David](https://github.com/kn0wmad)</sup>  
+<sup>[service owner]: [Dread](https://github.com/cryptodread)</sup>  
 <sup>[category]: Data</sup>
 
 
 </details><details> <summary>Photoview</summary>
 
 <sup>[repo]: [photoview-wrapper](https://github.com/Start9Labs/photoview-wrapper)</sup>  
-<sup>[service owner]: [David](https://github.com/kn0wmad)</sup>  
+<sup>[service owner]: [Dread](https://github.com/cryptodread)</sup>  
 <sup>[category]: Data</sup>
 
 
