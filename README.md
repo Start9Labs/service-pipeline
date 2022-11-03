@@ -247,7 +247,7 @@ Use is optional. To experiment, simply use the existing skeleton from the Hello 
 Check out the specification [here](https://start9.com/latest/developer-docs/specification/js-procedure).
 
 ## Support
-Have a question?  Need a hand? Please jump into our [Community Channels](https://start9.com/latest/about/contact) for general questions, or our [Matrix Community Dev Channel](https://matrix.to/#/#community-dev:matrix.start9labs.com) for development assistance.
+Have a question?  Need a hand? Please jump into our [Community](https://community.start9.com), or our [Matrix Community Dev Channel](https://matrix.to/#/#community-dev:matrix.start9labs.com).
 
 ## FAQ
 
