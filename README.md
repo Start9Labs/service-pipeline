@@ -251,8 +251,8 @@ Have a question?  Need a hand? Please jump into our [Community](https://communit
 
 ## FAQ
 
-1. I'm looking for a bit more guidance with this process, do you have any resources?
-    - Yes, follow along with building the hello-world package from scratch [starting here.](https://start9.com/latest/developer-docs/build-package-example/) 
+1. I'm looking for a more guidance with this process, do you have any resources?
+    - Yes, you can find our full service packaging specification (and more) in our [developer docs](https://docs.start9.com/latest/developer-docs/). 
 
 ## Glossary
 
