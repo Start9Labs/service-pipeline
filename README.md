@@ -1,6 +1,6 @@
 # Start9 Service Packaging for embassyOS
 
-Welcome! Thank you for your interest in contributing to the growing ecosystem of open software. We call the software applications that run on [embassyOS](https://github.com/start9labs/embassy-os) services.  This distinction is made to differentiate from applications ("apps"), which are generally run on a client, and used to access server-side software ("services").  To run services on embassyOS, a package of file components needs to be composed. This guide will dive into the basic structure of how to compose this package.
+Welcome! Thank you for your interest in contributing to the growing ecosystem of open software. We call the software applications that run on [embassyOS](https://github.com/start9labs/embassy-os), "services". This distinction is made to differentiate from applications ("apps"), which are generally run on a client, and used to access server-side software ("services"). To run services on embassyOS, a package of file components needs to be composed. This guide will dive into the basic structure of how to compose this package.
 
 Check out the [glossary](#glossary) to get acquainted with unfamiliar terms.
 
@@ -24,7 +24,7 @@ Almost any type of open source software can be run on embassyOS. No matter what 
 
 1. It either has a web user interface (it can be interacted with in a web browser), or is server software that external applications or internal services can connect to. Please keep in mind that embassyOS users are not expected to have SSH and/or CLI access.
     - The interfaces supported are: HTTP, TCP, and REST APIs
-1. It can be compiled for ARM (`arm64v8`)
+1. It can be compiled for ARM (`arm64v8`) and/or (`amd64`)
 1. It can be served over TOR
 1. It creates a Docker image that is optimized for size (under 1GB) to save device space and expedite installation time
 
@@ -144,10 +144,10 @@ First, check to see if the upstream project has already built one. This is usual
 After coding the build steps, build the Docker image using `docker buildx`, replacing the placeholder variables:
 
 ```
-docker buildx build --tag start9/$(PKG_ID)/main:$(PKG_VERSION) --platform=linux/arm64 -o type=docker,dest=image.tar .
+docker buildx build --tag start9/$(PKG_ID)/main:$(PKG_VERSION) --platform=linux/$(PLATFORM) -o type=docker,dest=image.tar .
 ```
 
-The resulting `image.tar` artifact is the Docker image that needs to be included in the `s9pk` package. 
+The resulting `docker-images/aarch64.tar` or `docker-images/x86_64.tar` artifact (depending on if you used `--platform=linux/arm64` or `--platform=linux/amd64` is the Docker image that needs to be included in the `s9pk` package.
 
 ### 2. Create File Structure
 
