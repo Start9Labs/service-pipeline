@@ -121,7 +121,7 @@
 </details><details> <summary>Specter</summary>
 
 <sup>[repo]: [specter-wrapper](https://github.com/Start9Labs/specter-wrapper)</sup>  
-<sup>[service owner]: [BitcoinMechanic](https://github.com/BitcoinMechanic)</sup>  
+<sup>[service owner]: [Lucy](https://github.com/elvece)</sup>   
 <sup>[category]: Bitcoin</sup>
 
 
