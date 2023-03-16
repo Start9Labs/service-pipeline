@@ -34,12 +34,19 @@
 <sup>[repo]: [c-lightning-wrapper](https://github.com/Start9Labs/c-lightning-wrapper)</sup>  
 <sup>[service owner]: [chrisguida](https://github.com/chrisguida) </sup>  
 <sup>[category]: Lightning</sup>
+  
+  
+</details><details> <summary>Cryptpad</summary>
+
+<sup>[repo]: [cryptpad-wrapper](https://github.com/Start9Labs/cryptpad-wrapper)</sup>  
+<sup>[service owner]: [chrisguida](https://github.com/chrisguida) </sup>  
+<sup>[category]: Data</sup>
 
 
 </details><details> <summary>Electrs</summary>
 
 <sup>[repo]: [electrs-wrapper](https://github.com/Start9Labs/electrs-wrapper)</sup>  
-<sup>[service owner]: [Chris](https://github.com/chrisguida) </sup>  
+<sup>[service owner]: [chrisguida](https://github.com/chrisguida) </sup>  
 <sup>[category]: Bitcoin</sup>
 
 
@@ -96,6 +103,12 @@
 <sup>[service owner]: [kn0wmad](https://github.com/kn0wmad)</sup>  
 <sup>[category]: Data</sup>
 
+
+</details><details> <summary>Nostr RS Relay</summary>
+
+<sup>[repo]: [nostr-rs-relay-wrapper](https://github.com/Start9Labs/nostr-rs-relay-wrapper)</sup>  
+<sup>[service owner]: [chrisguida](https://github.com/chrisguida)</sup>  
+<sup>[category]: Communications</sup>
 
 </details><details> <summary>Photoview</summary>
 
