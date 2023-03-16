@@ -93,7 +93,7 @@
 </details><details> <summary>NextCloud</summary>
 
 <sup>[repo]: [nextcloud-wrapper](https://github.com/Start9Labs/nextcloud-wrapper)</sup>  
-<sup>[service owner]: [Dread](https://github.com/cryptodread)</sup>  
+<sup>[service owner]: [kn0wmad](https://github.com/kn0wmad)</sup>  
 <sup>[category]: Data</sup>
 
 
