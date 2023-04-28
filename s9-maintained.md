@@ -36,6 +36,10 @@
 
 - Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
+## [Jellyfin](https://github.com/Start9Labs/jellyfin-wrapper)
+
+- Service Owner: [FullMetal](https://github.com/Dominion5254)
+
 ## [Lightning Network Daemon (LND)](https://github.com/Start9Labs/lnd-wrapper)
 
 - Service Owner: [FullMetal](https://github.com/Dominion5254)
