@@ -4,53 +4,65 @@
 
 - Service Owner: [Aiden](https://github.com/dr-bonez)
 
-## [Bitcoin Proxy](https://github.com/Start9Labs/btc-rpc-proxy-wrapper)
-
-- Service Owner: [Aiden](https://github.com/dr-bonez)
-
-## [BTCPay Server](https://github.com/Start9Labs/btcpayserver-wrapper)
+## [BTCPay Server](https://github.com/Start9Labs/btcpayserver-startos)
 
 - Service Owner: [Lucy](https://github.com/elvece)
 
 ## [Burn After Reading (BAR)](https://github.com/Start9Labs/burn-after-reading)
 
-- Service Owner: [Aiden McClelland](https://github.com/dr-bonez)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Core Lightning (CLN)](https://github.com/Start9Labs/c-lightning-wrapper)
+## [Core Lightning (CLN)](https://github.com/Start9Labs/cln-startos)
 
 - Service Owner: [FullMetal](https://github.com/Dominion5254)   
   
-## [Cryptpad](https://github.com/Start9Labs/cryptpad-wrapper)
-
-- Service Owner: TBD
-
 ## [Electrs](https://github.com/Start9Labs/electrs-wrapper)
 
 - Service Owner: [George](https://github.com/gStart9)
 
 ## [File Browser](https://github.com/Start9Labs/filebrowser-wrapper)
 
-- Service Owner: [Blu-J](https://github.com/Blu-J)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Gitea](https://github.com/Start9Labs/gitea-wrapper)
+## [FreeGPT](https://github.com/Start9Labs/FreeGPT-startos)
 
 - Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Jellyfin](https://github.com/Start9Labs/jellyfin-wrapper)
+## [Ghost](https://github.com/Start9Labs/ghost-wrapper)
 
-- Service Owner: [FullMetal](https://github.com/Dominion5254)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Lightning Network Daemon (LND)](https://github.com/Start9Labs/lnd-wrapper)
+## [Gitea](https://github.com/Start9Labs/gitea-startos)
+
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
+
+## [Iris](https://github.com/Start9Labs/iris-wrapper)
+
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
+
+## [Jam](https://github.com/Start9Labs/jam-wrapper)
+
+- Service Owner: [George](https://github.com/gStart)
+
+## [Jellyfin](https://github.com/Start9Labs/jellyfin-startos)
+
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
+
+## [Lightning Network Daemon (LND)](https://github.com/Start9Labs/lnd-startos)
 
 - Service Owner: [FullMetal](https://github.com/Dominion5254)
   
-## [Lightning Terminal](https://github.com/Start9Labs/lightning-terminal-wrapper)
+## [Lightning Terminal](https://github.com/Start9Labs/lightning-terminal-startos)
 
-- Service Owner: TBD
+- Service Owner: [FullMetal](https://github.com/Dominion5254)
+  
+## [LNBits](https://github.com/Start9Labs/lnbits-wrapper)
+
+- Service Owner: [FullMetal](https://github.com/Dominion5254)
 
 ## [Mempool](https://github.com/Start9Labs/mempool-wrapper)
 
-- Service Owner: TBD
+- Service Owner: [Lucy](https://github.com/elvece)
 
 ## [NextCloud](https://github.com/Start9Labs/nextcloud-wrapper)
 
@@ -58,21 +70,17 @@
 
 ## [Nostr RS Relay](https://github.com/Start9Labs/nostr-rs-relay-wrapper)
 
-- Service Owner: [Matt](https://github.com/MattDHill)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Ride The Lightning](https://github.com/Start9Labs/ride-the-lightning-wrapper)
+## [Ride The Lightning](https://github.com/Start9Labs/ride-the-lightning-startos)
 
-- Service Owner: TBD
+- Service Owner: [FullMetal](https://github.com/Dominion5254)
 
-## [Spark Wallet](https://github.com/Start9Labs/spark-wallet-wrapper)
+## [SearXNG](https://github.com/Start9Labs/searxng-startos)
 
-- Service Owner: [George](https://github.com/gStart9)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
 
-## [Specter](https://github.com/Start9Labs/specter-wrapper)
-
-- Service Owner: [BitcoinMechanic](https://github.com/BitcoinMechanic)
-
-## [Start9 Pages](https://github.com/Start9Labs/embassy-pages-wrapper)
+## [Start9 Pages](https://github.com/Start9Labs/start9-pages-startos)
 
 - Service Owner: [Lucy](https://github.com/elvece)
 
@@ -82,4 +90,4 @@
 
 ## [Vaultwarden](https://github.com/Start9Labs/vaultwarden-wrapper)
 
-- Service Owner: [Blu-J](https://github.com/Blu-J)
+- Service Owner: [Mariusz Kogen](https://github.com/k0gen)
