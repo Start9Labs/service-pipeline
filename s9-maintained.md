@@ -66,7 +66,7 @@
 
 ## [NextCloud](https://github.com/Start9Labs/nextcloud-wrapper)
 
-- Service Owner: [kn0wmad](https://github.com/kn0wmad)
+- Service Owner: [Aiden](https://github.com/dr-bonez)
 
 ## [Nostr RS Relay](https://github.com/Start9Labs/nostr-rs-relay-wrapper)
 
