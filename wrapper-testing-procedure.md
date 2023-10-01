@@ -1,7 +1,7 @@
 # Wrapper Testing Procedure
 The following is a standard procedue for testing service wrappers. This does not include testing the upstream service, which is different for every service and must be outlined by the service owner.
 
-*During testing, put yourself in the shoes of a user who knows little to nothing about EmbassyOS or the service.*
+*During testing, put yourself in the shoes of a user who knows little to nothing about StartOS or the service.*
 
 ### Marketplace list
 - good icon, accurate title, and a clear short description
@@ -12,7 +12,7 @@ The following is a standard procedue for testing service wrappers. This does not
 - clear long description
 - make sure dependencies look accurate (especially "required" vs "required by default" vs "optional")
 - click all buttons under "Additional Info" to make sure they work
-- read the instructions like a two year old
+- read the instructions as if you were a five-year-old
 - install the service
 
 ### Installed Show
